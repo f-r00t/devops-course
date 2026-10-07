@@ -11,7 +11,7 @@ Adding a CI test stage and smoke tests to Hugin (hugin-native)
 
 ## Deadline
 
-- Oct 11, 2026
+- Task 3
 
 ## Category
 
